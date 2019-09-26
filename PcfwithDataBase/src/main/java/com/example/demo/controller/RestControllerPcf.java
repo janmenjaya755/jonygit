@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.demo.employee.Employee;
 import com.example.demo.service.ServiceInterface;
 
-@RestController("/welcome")
+@RestController("/welcomepcf")
 public class RestControllerPcf {
 	
 		@Autowired
